@@ -10,4 +10,8 @@ Connect via wifi network ROOter, password rooter2017
 
 open webpage: 192.168.1.1
 
+wifi defaults to lan. wifi client mode with ap mode works pefectly.
+
+for wired wan: create new interface -> dhcp -> name eth0, device eth0, put into wan firewall settings.
+
 Runs very fast from usb. Everything SEEMS to work. MMC to come.
