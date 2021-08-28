@@ -10,4 +10,4 @@ Connect via wifi network ROOter, password rooter2017
 
 open webpage: 192.168.1.1
 
-Runs very fast from usb. MMC to come.
+Runs very fast from usb. Everything SEEMS to work. MMC to come.
