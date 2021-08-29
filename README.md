@@ -6,6 +6,8 @@ Built with the standard rooter repo (https://github.com/ofmodemsandmen/RooterSou
 
 Dir /openwrt-atomicpi-rooter-goldenorb-19.07.6/ - build using heavily hand-edited config file.
 
+Dir /atomicpi-generic/ - built with the default X86-64 option as described below.
+
 Future builds will use the standard method below.
 
 * git clone https://github.com/ofmodemsandmen/RooterSource rooter19076
