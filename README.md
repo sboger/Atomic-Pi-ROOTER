@@ -2,7 +2,7 @@
 
 Atomic Pi ROOTER AP builds. Openwrt built for cellular modems.                                                                                  
 
-Built with standard rooter repo (https://github.com/ofmodemsandmen/RooterSource) and UEFI Support (https://github.com/falafalafala1668/OpenWrt-UEFI-Support)
+Built with the standard rooter repo (https://github.com/ofmodemsandmen/RooterSource) and UEFI Support (https://github.com/falafalafala1668/OpenWrt-UEFI-Support)
 
 Dir /openwrt-atomicpi-rooter-goldenorb-19.07.6/ - build using heavily hand-edited config file.
 
