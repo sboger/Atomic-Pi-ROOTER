@@ -16,3 +16,8 @@ Future builds will use the standard method below.
 * git clone https://github.com/falafalafala1668/OpenWrt-UEFI-Support.git -b openwrt-19.07
 * ./OpenWrt-UEFI-Support/RunMe.sh apply
 * ./build X86-64
+
+![Screenshot](images/root5.png)
+![Screenshot](images/r5.png)
+![Screenshot](images/rooter1.png)
+
