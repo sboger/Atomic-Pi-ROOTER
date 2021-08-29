@@ -2,16 +2,13 @@
 
 USB/SDCARD ONLY FOR NOW. (I'm fighting with the mmc)
 
-Use Etcher to flash openwrt-x86-64-uefi-gpt-ext4.img.gz onto 2gb+ USB/SD
+* Use Etcher to flash openwrt-x86-64-uefi-gpt-ext4.img.gz onto a 2gb+ USB/SD
+* Boot from USB/SD.
+* Connect via wifi network ROOter, password rooter2017 (this will work even without antennas)
+* Open webpage: 192.168.1.1
 
-Boot from USB/SD.
+Wifi defaults to lan. (wifi client mode & ap mode works pefectly)
 
-Connect via wifi network ROOter, password rooter2017 (this will work even without antennas)
+Wired defaults to lan. WWAN tested with a Quectel EM12 and Huawei E3372.
 
-open webpage: 192.168.1.1
-
-wifi defaults to lan. wifi client mode with ap mode works pefectly.
-
-wired defaults to lan. for wan, network -> interfaces -> create new interface -> dhcp -> name eth0, device eth0, put into wan firewall settings. REMOVE eth0 from br-lan.
-
-Runs very fast from USB/SD. Everything SEEMS to work. MMC to come.
+Runs very fast from USB/SD. Everything SEEMS to work.
