@@ -6,7 +6,7 @@ Dir /atomicpi-generic/ - AtomicPi GoldenOrb_2021-08-29 firmware built with the d
 
 Built with the standard rooter repo (https://github.com/ofmodemsandmen/RooterSource) and UEFI Support (https://github.com/falafalafala1668/OpenWrt-UEFI-Support)
 
-Builds use this standard method:
+Builds use this method:
 * git clone https://github.com/ofmodemsandmen/RooterSource rooter19076
 * cd rooter19076
 * git clone https://github.com/falafalafala1668/OpenWrt-UEFI-Support.git -b openwrt-19.07
