@@ -6,7 +6,7 @@ Use Etcher to flash openwrt-x86-64-uefi-gpt-ext4.img.gz onto 2gb+ usb stick
 
 Boot from usb stick.
 
-Connect via wifi network ROOter, password rooter2017
+Connect via wifi network ROOter, password rooter2017 (this will work even without antennas)
 
 open webpage: 192.168.1.1
 
