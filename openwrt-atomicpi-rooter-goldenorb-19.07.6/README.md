@@ -14,4 +14,4 @@ wifi defaults to lan. wifi client mode with ap mode works pefectly.
 
 wired defaults to lan. for wan, network -> interfaces -> create new interface -> dhcp -> name eth0, device eth0, put into wan firewall settings.
 
-Runs very fast from usb. Everything SEEMS to work. MMC to come.
+Runs very fast from usb. Everything SEEMS to work. This is a first run with a heavily customized config file. MMC to come.
