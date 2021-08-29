@@ -12,6 +12,6 @@ open webpage: 192.168.1.1
 
 wifi defaults to lan. wifi client mode with ap mode works pefectly.
 
-wired defaults to lan. for wan, network -> interfaces -> create new interface -> dhcp -> name eth0, device eth0, put into wan firewall settings. REMOVE eth0 from br-ln.
+wired defaults to lan. for wan, network -> interfaces -> create new interface -> dhcp -> name eth0, device eth0, put into wan firewall settings. REMOVE eth0 from br-lan.
 
 Runs very fast from usb. Everything SEEMS to work. MMC to come.
