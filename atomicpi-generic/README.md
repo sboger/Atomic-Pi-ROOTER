@@ -11,4 +11,4 @@ Wifi defaults to lan. (wifi client mode & ap mode works pefectly)
 
 Wired defaults to lan. WWAN tested with a usb Quectel EM12 and Huawei E3372.
 
-Runs very fast from USB/SD. Everything SEEMS to work.
+Runs very fast from USB/SD. Everything SEEMS to work. Adblock works.
