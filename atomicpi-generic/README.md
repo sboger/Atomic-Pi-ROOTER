@@ -7,7 +7,7 @@ USB/SDCARD ONLY FOR NOW. (I'm fighting with the mmc)
 * Connect via wifi network ROOter, password rooter2017 (this will work even without antennas)
 * Open webpage: 192.168.1.1
 
-Wifi defaults to lan. (wifi client mode & ap mode works pefectly)
+Wifi defaults to lan. (wifi client mode works pefectly)
 
 Wired defaults to lan. WWAN tested with a usb Quectel EM12 and Huawei E3372.
 
