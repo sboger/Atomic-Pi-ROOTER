@@ -2,7 +2,7 @@
 
 USB/SDCARD ONLY FOR NOW. (I'm fighting with the mmc)
 
-* Use Etcher to flash openwrt-x86-64-uefi-gpt-ext4.img.gz onto a 2gb+ USB/SD
+* Use Etcher to flash [openwrt-x86-64-uefi-gpt-ext4.img.gz](openwrt-x86-64-uefi-gpt-ext4.img.gz) onto a 2gb+ USB/SD
 * Boot from USB/SD.
 * Connect via wifi network ROOter, password rooter2017 (this will work even without antennas)
 * Open webpage: 192.168.1.1
