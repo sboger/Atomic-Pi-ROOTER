@@ -2,7 +2,8 @@
 
 Atomic Pi ROOter AP builds. Openwrt built for cellular modems.                                                                                  
 
-* [/atomicpi-generic/](atomicpi-generic/) - AtomicPi GoldenOrb_2021-08-29 (OpenWRT 19.07.6) firmware built with the default X86-64 option as described below. USB/SD.
+* [/atomicpi-generic/](atomicpi-generic/) - AtomicPi GoldenOrb_2021-08-29 (OpenWRT 19.07.6). Firmware built with the default X86-64 option as described below. USB/SD.
+* [/rooter19076-20211012/](rooter19076-20211012/) - AtomicPi GoldenOrb_2021-10-12 (OpenWRT 19.07.6). (rooter repo notes: "QMI fixes") Firmware built with the default X86-64 option as described below
 
 Built with the standard rooter repo (https://github.com/ofmodemsandmen/RooterSource) and UEFI Support (https://github.com/falafalafala1668/OpenWrt-UEFI-Support)
 
